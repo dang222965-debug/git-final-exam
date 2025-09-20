@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý người dùng
+- Cho phép đăng ký tài khoản.
+- Đăng nhập/Đăng xuất.
+- Chỉnh sửa thông tin cá nhân.
+- Đổi mật khẩu.
+- Xem lịch sử hoạt động.
