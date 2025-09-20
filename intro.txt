@@ -1,3 +1,4 @@
+Xin chào, tôi là Lê Hải Đăng
 Kế hoạch học tập:  
 - Hoàn thành môn học Git đúng hạn.  
 - Luyện tập Git hàng ngày qua project nhỏ.  
