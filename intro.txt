@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:  
+Tôi tên là Lê Hải Đăng, hiện đang là sinh viên.  
+Tôi yêu thích công nghệ thông tin và lập trình.  
+Tôi mong muốn trở thành một kỹ sư phần mềm giỏi.  
+Tôi luôn học hỏi và trau dồi kỹ năng mỗi ngày.  
+
+Sở thích:  
+- Đọc sách  
+- Lập trình  
+- Nghe nhạc  
+
+Kỹ năng:  
+- Lập trình Python  
+- Git & GitHub  
+- Làm việc nhóm
