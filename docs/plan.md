@@ -13,4 +13,6 @@
 8. Đọc tài liệu chính thức của Git.  
 9. Thử sức với một dự án nhỏ trên GitHub.  
 10. Đánh giá lại kết quả và đặt mục tiêu mới.  
-
+- Task 1: Setup environment
+- Task 2: Configure Git
+- Task 3: Initial project planning
