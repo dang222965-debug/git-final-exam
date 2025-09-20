@@ -1,15 +1,6 @@
-Giới thiệu cá nhân:  
-Tôi tên là Lê Hải Đăng, hiện đang là sinh viên.  
-Tôi yêu thích công nghệ thông tin và lập trình.  
-Tôi mong muốn trở thành một kỹ sư phần mềm giỏi.  
-Tôi luôn học hỏi và trau dồi kỹ năng mỗi ngày.  
-
-Sở thích:  
-- Đọc sách  
-- Lập trình  
-- Nghe nhạc  
-
-Kỹ năng:  
-- Lập trình Python  
-- Git & GitHub  
-- Làm việc nhóm
+Kế hoạch học tập:  
+- Hoàn thành môn học Git đúng hạn.  
+- Luyện tập Git hàng ngày qua project nhỏ.  
+- Tham gia thảo luận nhóm về Git và GitHub.  
+- Tìm hiểu thêm về Git nâng cao (branching, merge).  
+- Áp dụng Git vào dự án thực tế.  
