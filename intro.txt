@@ -1,0 +1,6 @@
+Kế hoạch học tập:  
+- Hoàn thành môn học Git đúng hạn.  
+- Luyện tập Git hàng ngày qua project nhỏ.  
+- Tham gia thảo luận nhóm về Git và GitHub.  
+- Tìm hiểu thêm về Git nâng cao (branching, merge).  
+- Áp dụng Git vào dự án thực tế.  
